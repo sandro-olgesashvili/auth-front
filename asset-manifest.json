@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/auth-front/static/css/main.ecfedf1f.css",
-    "main.js": "/auth-front/static/js/main.0ffa32d4.js",
+    "main.js": "/auth-front/static/js/main.c24f3de2.js",
     "static/js/787.c3f6e408.chunk.js": "/auth-front/static/js/787.c3f6e408.chunk.js",
     "index.html": "/auth-front/index.html",
     "main.ecfedf1f.css.map": "/auth-front/static/css/main.ecfedf1f.css.map",
-    "main.0ffa32d4.js.map": "/auth-front/static/js/main.0ffa32d4.js.map",
+    "main.c24f3de2.js.map": "/auth-front/static/js/main.c24f3de2.js.map",
     "787.c3f6e408.chunk.js.map": "/auth-front/static/js/787.c3f6e408.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ecfedf1f.css",
-    "static/js/main.0ffa32d4.js"
+    "static/js/main.c24f3de2.js"
   ]
 }
