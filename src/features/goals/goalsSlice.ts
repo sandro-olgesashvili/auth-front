@@ -7,7 +7,6 @@ interface Goal {
   text: string;
   _id?: string;
   createdAt?: string;
-  // id?:string;
 }
 
 export interface GoalState {
